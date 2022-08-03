@@ -1,0 +1,17 @@
+C:\Users\Administrator\Desktop\aua\AutoUpdateApp\AutoUpdateApp\bin\Debug\net6.0-windows\AutoUpdateApp.exe
+C:\Users\Administrator\Desktop\aua\AutoUpdateApp\AutoUpdateApp\bin\Debug\net6.0-windows\AutoUpdateApp.deps.json
+C:\Users\Administrator\Desktop\aua\AutoUpdateApp\AutoUpdateApp\bin\Debug\net6.0-windows\AutoUpdateApp.runtimeconfig.json
+C:\Users\Administrator\Desktop\aua\AutoUpdateApp\AutoUpdateApp\bin\Debug\net6.0-windows\AutoUpdateApp.dll
+C:\Users\Administrator\Desktop\aua\AutoUpdateApp\AutoUpdateApp\bin\Debug\net6.0-windows\AutoUpdateApp.pdb
+C:\Users\Administrator\Desktop\aua\AutoUpdateApp\AutoUpdateApp\obj\Debug\net6.0-windows\AutoUpdateApp.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\aua\AutoUpdateApp\AutoUpdateApp\obj\Debug\net6.0-windows\AutoUpdateApp.Form1.resources
+C:\Users\Administrator\Desktop\aua\AutoUpdateApp\AutoUpdateApp\obj\Debug\net6.0-windows\AutoUpdateApp.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\aua\AutoUpdateApp\AutoUpdateApp\obj\Debug\net6.0-windows\AutoUpdateApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\aua\AutoUpdateApp\AutoUpdateApp\obj\Debug\net6.0-windows\AutoUpdateApp.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\aua\AutoUpdateApp\AutoUpdateApp\obj\Debug\net6.0-windows\AutoUpdateApp.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\aua\AutoUpdateApp\AutoUpdateApp\obj\Debug\net6.0-windows\AutoUpdateApp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\aua\AutoUpdateApp\AutoUpdateApp\obj\Debug\net6.0-windows\AutoUpdateApp.dll
+C:\Users\Administrator\Desktop\aua\AutoUpdateApp\AutoUpdateApp\obj\Debug\net6.0-windows\refint\AutoUpdateApp.dll
+C:\Users\Administrator\Desktop\aua\AutoUpdateApp\AutoUpdateApp\obj\Debug\net6.0-windows\AutoUpdateApp.pdb
+C:\Users\Administrator\Desktop\aua\AutoUpdateApp\AutoUpdateApp\obj\Debug\net6.0-windows\AutoUpdateApp.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\aua\AutoUpdateApp\AutoUpdateApp\obj\Debug\net6.0-windows\ref\AutoUpdateApp.dll
