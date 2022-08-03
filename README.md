@@ -41,4 +41,7 @@ Free repository for study
 * ` Create a new file in your git just like the video and put the current version inside. When updating the application change the name of the label in the project and change the version on github `
 
 
+https://github.com/ScreenGC/AutoUpdateApp/blob/main/Tutorial.mp4
+
+
 <h2 align="center"> Copyright © 2022 - 2023
